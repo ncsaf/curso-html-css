@@ -1,0 +1,32 @@
+#02-01 Tags
+-Conceito sobre as tags HTMl.
+-Demostração das tags e seu atributos
+-Tags Usadas: 
+1- <a href=""></a>
+--------------------------------------------------------------------------------
+
+#02-02 Tags Iniciais
+- Ensinando tags básicas.
+- Tags podem ser usadas dentro de outras tags.
+Tags usadas:
+1 - <p></p>
+2 - <h1></h1>
+3 - <a></a>
+--------------------------------------------------------------------------------
+
+#02-03 Estrutura HTML
+- Estrutura base para funcionamento do código HTML.
+Tags usadas:
+- <!DOCTYPE html>
+ <html>
+    <head>
+        <meta chatset="UTF-8">
+        <title> Meu titulo </title>
+    </head>
+    <body>
+        <h1></h1>
+    </body>
+ </html>
+ --------------------------------------------------------------------------------
+
+ 
