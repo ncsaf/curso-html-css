@@ -57,3 +57,22 @@ Tags usadas:
 
 #02-07 CSS Básico
 - Tag Link = Linkar o arquivo CSS.
+- Estrutura CSS = 
+    Seletor {
+        Propriedade: valor;
+        }
+- CSS possui estilo em cascata, logo ele sempre vai sobrepor o seletor anterior.
+
+----------------------------------------------------------------------------------
+
+#02-08 CSS Seletores
+- h1 , h2 = Vai executar a mesma propriedade para os 2 seletores.
+- p a = Vai executar a propriedade somente para o "a" que estiver dentro de "p".
+- id = Atributo html que aplica um identifacador único na tag.
+- class = Atributo html que adiciona um identificador reutilizável na tag.
+*INSIGHT (Com as Class e ID, mesmo trocando a tag, as propriedades CSS são aplicadas, fazendo assim o código HTMl ser em função do CSS, e assim o class/id ser mais importante do código.)
+
+----------------------------------------------------------------------------------
+
+#02-09 Atividade HTML
+-
