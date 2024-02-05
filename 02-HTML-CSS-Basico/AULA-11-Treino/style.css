@@ -1,0 +1,12 @@
+div {
+    background: #aaa;
+    width: auto;
+    height: auto;
+    padding: auto;
+    border: auto solid red;
+    margin: 100px;
+}
+
+*{
+    /* margin: 0px; */
+}

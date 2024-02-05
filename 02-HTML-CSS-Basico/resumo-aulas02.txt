@@ -43,7 +43,7 @@ Tags usadas:
 - Ctrl+C (Se nada tiver selecionado, ele clona a linha onde está o cursor.)
 - Alt + Seta = Sobe ou desce com a linha pelo documento.
 - Ctrl + d = Altera multiplas seleções ao mesmo tempo.
-- Ctrl + / = Abre o comandos de comentário HTML ( <!-- --> ), se clicar na linha toda, ela fica comentada.
+- Ctrl + ; = Abre o comandos de comentário HTML ( <!-- --> ), se clicar na linha toda, ela fica comentada.
 - Ctrl + b = Tira o explorador da esquerda.
 - Ctrl + alt +b = Oculta a barra de atividade.
 
@@ -75,4 +75,25 @@ Tags usadas:
 ----------------------------------------------------------------------------------
 
 #02-09 Atividade HTML
+- Pasta da Aula 09
+
+----------------------------------------------------------------------------------
+
+#02-10 Background e Cores (CSS)
+-Background-color = Especifica o Background somente para Cores
+-Background = Pode por Cores e também outros atributos do Background.
+- Formatos do Color = Hexadecimal(#ffffff) ou RGB(0,0,255) e RGBA(Acrescenta o alfa, que é a transparência)
+
+----------------------------------------------------------------------------------
+
+#02-11 Box Model 1
+- É o modelo de Caixa que cada tag usa
+- Ele é composto pelo Conteudo, Padding, Borda e Margem.
+- A ordem de dentro pra fora é: Content > Padding > Border > Margin
+- A Largura se dá pelo somatório de todas elas na horizontal (Left e Right)
+- A altura se dá pelo somatório de todas elas na vertical (Top e Bottom)
+
+----------------------------------------------------------------------------------
+
+#02-11-2 Box model 2
 -
