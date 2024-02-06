@@ -1,0 +1,40 @@
+* {
+    font-family: Arial;
+    border: 1px solid red;
+}
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+
+h2{
+    color: white;
+}
+
+p{
+    color: #b2b2b2;
+}
+
+.box-carro {
+    background: #111;
+    margin: 40px;
+    border-radius: 4px;
+    padding: 20px;
+}
+
+.cor-preco {
+    color:#febe01;
+}
+
+.box-bicicleta {
+    background: #111;
+    margin-inline: 40px;
+    border-radius: 4px;
+}
+
+.botao {
+    background: #febe01;
+    border-radius: 4px;
+
+}

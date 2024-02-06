@@ -105,3 +105,18 @@ Tags usadas:
 #02-12 Estilos do Browser
 -Por padrão algumas tags ja possuem propriedades embutidas nos Browser's, logo no início do nosso código, devemos setar os valores para 0, afim de escolher quais as propriedades queremos usar.
 - Inherit (Herença) = O valor padrão do CSS dos browsers sobrepõe o valor da herança no nosso código, por isso se o body tiver todas cores de A como roxo, o A não sera afetado, pois por padrão ele tem uma cor própria setada.
+
+----------------------------------------------------------------------------------
+
+#02-13 Propriedade Display
+-O fluxo HTML segue o mesmo da escrita, vertical e esquerda pra direita.
+- Cada texto ou tag é posicionado ao lado da outra, exceto quando seu display é block.
+- Inline = Estilo padrão do CSS, nele nao modifica o widh, height e margin(top/Bottom). Respeita fluxo de escrita sem iniciar uma nova linha.
+- Block = Sempre inicia uma nova linha, não permitindo outros elemenos em sua linha.
+- none = Remove o elemento da tela.
+- inline-block = Seria o meio termo, o elemento continua sendo inline, sem pular uma linha, mas passa a receber as propriedas do box model, que antes nao respeitava.
+
+-------------------------------------------------------------------------------------
+
+#02-14 Display Exercício
+-Pasta Aula 14
