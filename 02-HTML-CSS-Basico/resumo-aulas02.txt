@@ -96,4 +96,12 @@ Tags usadas:
 ----------------------------------------------------------------------------------
 
 #02-11-2 Box model 2
--
+- O tamanho do bloco é dado pela soma de todos os lados dele, como uma Área.
+- Quando se compara blocos vizinhos, o que tiver a maior margem irá ser o tamanho padrão.
+- O body tem uma margem padrão de 8px, que é somado junto ao restante caso nao seja definida como 0.
+
+----------------------------------------------------------------------------------
+
+#02-12 Estilos do Browser
+-Por padrão algumas tags ja possuem propriedades embutidas nos Browser's, logo no início do nosso código, devemos setar os valores para 0, afim de escolher quais as propriedades queremos usar.
+- Inherit (Herença) = O valor padrão do CSS dos browsers sobrepõe o valor da herança no nosso código, por isso se o body tiver todas cores de A como roxo, o A não sera afetado, pois por padrão ele tem uma cor própria setada.
