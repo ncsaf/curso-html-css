@@ -1,40 +1,44 @@
-* {
-    font-family: Arial;
-    border: 1px solid red;
+body {
+  font-family: Arial;
+  margin: 50px;
 }
 
-h1{
-    text-align: center;
-    margin-top: 50px;
+h1 {
+  text-align: center;
 }
 
-h2{
-    color: white;
+h2 {
+  color: white;
+  margin: 0px;
 }
 
-p{
-    color: #b2b2b2;
+p {
+  color: #b2b2b2;
 }
 
 .box-carro {
-    background: #111;
-    margin: 40px;
-    border-radius: 4px;
-    padding: 20px;
+  background: #111;
+  margin: 20px;
+  border-radius: 4px;
+  padding: 20px;
 }
 
 .cor-preco {
-    color:#febe01;
+  color: #febe01;
 }
 
 .box-bicicleta {
-    background: #111;
-    margin-inline: 40px;
-    border-radius: 4px;
+  background: #111;
+  margin: 20px;
+  border-radius: 4px;
+  padding: 20px;
 }
 
 .botao {
-    background: #febe01;
-    border-radius: 4px;
-
+  background: #febe01;
+  display: inline-block;
+  border-radius: 4px;
+  color: #332100;
+  padding: 10px;
+  text-decoration: none;
 }
