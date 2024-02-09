@@ -120,3 +120,18 @@ Tags usadas:
 
 #02-14 Display Exercício
 -Pasta Aula 14
+
+--------------------------------------------------------------------------------------
+
+#02-15 Documentação
+- MDN = Documentação de HTML e CSS feita pelo Mozilla.
+- W3C School = Documentação HTML e CSS.
+
+---------------------------------------------------------------------------------------
+
+#02-16 Imagens
+- Tag img = Atributos src e alt.
+- Max-width 100% = Aumenta o tamanho da imagem para sua resolução real.
+- Formato SVG = Tipo de arquivo onde a imagens é em código, vetorizada.
+- Unsplash = Site para donwload de imagens.
+- Squoosh = Site para otimizar imagens, diminuir resolução e etc...
