@@ -1,0 +1,23 @@
+#03-01 Top, Right, Bottom e Left
+- A ordem das propriedades é sempre no sentido horário. (TOP, RIGHT, BOTTOM E LEFT)
+- Caso haja somente 2 propriedades, ele segue a sequência Top/Bottom e right/left respectivamente.
+- Seletor novo = border-width: 30px 60x (Segue a regra do sentindo hoário para os lados)
+- Margin-block-start = Uma margem que segue o modo de leitura do arquivo, caso seja na vertical, ele muda como a margem se apresenta.
+
+----------------------------------------------------------------------------------
+
+#03-02,03 Grid Columns 1,2
+- Estudo do Display Grid, onde é possível definir colunas e linhas para organizar dentro da tag grid.
+- grid-templates-columns = Cria colunas e define o tamanho delas dentro do grid.
+- fr = Unidade de tamanho para o templates-columns, deixa uniforme todos os lados das colunas.
+- gap = Semelhante a margem, é um espaçamento entre as colunas do grid. 
+
+---------------------------------------------------------------------------------
+
+#03-04 Align e Justiy Content
+- align-content = Alinha o conteúdo na vertical.
+- justify-content = Alinha o conteúdo na horizontal.
+- place-content = Atalho para usar os 2 de cima em um comando só. A ordem é align e depois justify.
+- Propriedades = start | center | end | stretch | space-between | space-around | space-evenly 
+
+---------------------------------------------------------------------------------------
