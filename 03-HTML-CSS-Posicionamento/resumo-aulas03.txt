@@ -21,3 +21,18 @@
 - Propriedades = start | center | end | stretch | space-between | space-around | space-evenly 
 
 ---------------------------------------------------------------------------------------
+
+#03-05,06 Grid Column 1,2
+-Grid column = Posiciona o item na coluna desejada.
+- grid-column: 1/3 = O item assume 3 linhas.
+- grid-column: 1/-1 = O item pega todas as colunas que existirem.
+- grid-column: span 2 = Expandir por 2 linhas.
+
+-------------------------------------------------------------------------------------------
+
+#03-07 Align e Justift Items
+- align-items = Alinha o item na vertical.
+- justify-items = Alinha o item na horizontal.
+- place-items = Atalho para usar os 2 de cima em um comando só. A ordem é align e depois justify.
+- Propriedades = start | center | end | stretch . 
+- Além desses, existe o somente para o elemento, que é o self. (align-self e justify-self)
