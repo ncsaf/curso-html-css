@@ -36,3 +36,12 @@
 - place-items = Atalho para usar os 2 de cima em um comando só. A ordem é align e depois justify.
 - Propriedades = start | center | end | stretch . 
 - Além desses, existe o somente para o elemento, que é o self. (align-self e justify-self)
+
+----------------------------------------------------------------------------------
+
+#03-08 Grid Template Rows
+- grid-template-rows = Defini a quantidade e o tamanho das linhas da grid.
+- grid-auto-rows = Defini um tamanho para as linhas que serão criadas automaticamente.
+- grid-row = Defini EM QUAL LINHA o item ficará.
+- grid-area = Equivale ao grid-column e grid-row respectivamente.
+- Resumo: Em casos onde o texto fica ao lado da imagem, usa-se um novo bloco para alinhar os conteudos. Teste feito no AULA-05-Treino.

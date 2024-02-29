@@ -26,19 +26,25 @@ img {
 .grid {
   display: grid;
   gap: 20px;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(2, 1fr);
 }
 
 .titulo {
-  grid-column: 2;
-  text-align: right;
+  grid-column: 1 / -1;
+
+}
+
+.info {
+  display: grid;
+  place-self: start;
+  place-items: start;
+  gap: 10px;
 }
 
 .preco {
   background: #ddd;
   padding: 10px 20px;
   border-radius: 4px;
-  place-self: start end;
 }
 
 .comprar {
