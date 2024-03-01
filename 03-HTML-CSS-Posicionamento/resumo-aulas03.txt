@@ -45,3 +45,39 @@
 - grid-row = Defini EM QUAL LINHA o item ficará.
 - grid-area = Equivale ao grid-column e grid-row respectivamente.
 - Resumo: Em casos onde o texto fica ao lado da imagem, usa-se um novo bloco para alinhar os conteudos. Teste feito no AULA-05-Treino.
+
+----------------------------------------------------------------------------------
+
+#03-09 Flexbox 1
+- Display: flex = Semelhante ao Grid, poder juntar as tag lado a lado.
+- flex-wrap: wrap = Cria uma nova linha ao invés de quebrar o texto do conteiner.
+- align/justify = Iguais como o Grid.
+- vh = Viewport Height (Altura máximo da tela do usuário)
+
+------------------------------------------------------------------------------------------------
+
+#03-10 Flexbox 2
+- flex-grow: 1 = Distribui o espaço da tela para todos os elementos flex, se baseando pelo tamanho do conteúdo.
+- flex-basis: 0 = Distribui o espaço em branco de forma igual para todos os elementos da flexbox.
+- flex-shrink: 1 = Determina se o elemento vai encolher ou nao ao diminuir a resolução da tela.
+- flex: 1 = flex-grow: 1 , flex-shrink: 1 , flex-basis: 0 . (O padrão usado)
+
+--------------------------------------------------------------------------------------------------
+
+#03-11 Flexbox 3
+- Flex x Grid -> Ambos são bons, mas cada um resolve um problema específico.
+- Grid é mais baseado em colunas e linhas, enquanto o Flex é livre pela tela.
+- O grid consegue se comportar igual o flex, sem colunas fixas e estáticas.
+- No grid-template-columns, usa-se o repeat(autofit, minmax(150px, auto))
+- auto-fit = Cria-se colunas automáticas, quantas necessárias.
+- minmax() = Função que define primeiro o tamanho mínimo e depois o tamanho máximo.
+
+--------------------------------------------------------------------------------------------------
+
+#03-12 Position 1
+- Position = Propriedade que remove o elemento do fluxo padrão do documento.
+- position: fixed = Fixa o elemento em qualquer lugar da tela.
+- top, bottom, right ou left = Propriedades que configuram a posição do Position.
+- position: relative = Permite movimentar o elemento, mas mantendo no fluxo padrão e ocupando o mesmo espaço de antes.
+- position: absolute = 
+
