@@ -79,5 +79,6 @@
 - position: fixed = Fixa o elemento em qualquer lugar da tela.
 - top, bottom, right ou left = Propriedades que configuram a posição do Position.
 - position: relative = Permite movimentar o elemento, mas mantendo no fluxo padrão e ocupando o mesmo espaço de antes.
-- position: absolute = 
+- position: absolute = Sua movimentação é de acordo com o position do elemento que ele está contido.
+- z-index: Altera o eixo de profundidade dos elementos seguindo uma ordem de prioridade do valor maior para o menor.
 

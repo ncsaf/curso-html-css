@@ -1,0 +1,17 @@
+body {
+    background: #f7f7f7;
+    margin: 0px;
+    padding: 0px;
+    font: Arial;
+}
+
+.content {
+    max-width: 1000px;
+    display: flex;
+    place-content: end;
+
+}
+
+.logo {
+    /* place-items: center; */
+}
